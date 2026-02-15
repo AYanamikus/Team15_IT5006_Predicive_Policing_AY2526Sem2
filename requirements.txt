@@ -1,5 +1,7 @@
-streamlit
-pandas
-plotly
-datasets
-pyarrow
+datasets==4.5.0
+holidays==0.90
+matplotlib==3.10.8
+pandas==3.0.0
+plotly==6.3.0
+seaborn==0.13.2
+streamlit==1.54.0
